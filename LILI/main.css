@@ -1,0 +1,83 @@
+body{
+ 
+background-color: #C88282;
+font-family: 'Amatic SC', cursive;
+}
+img{
+	vertical-align: right;
+}
+
+h1{	
+
+	color: #C1E0E1;
+	color: white;
+	text-align: center;
+	font-size: 60px;
+
+}
+	
+h2{
+	text-align: right;
+	background-color: #E0C7C0;
+	height: 273px;
+	width: 100%;
+	
+}
+h3{
+	font-size: 45px;
+	font: white;
+
+}
+p{
+	color: white;
+	font-size: 20px;
+	
+}
+
+
+#egyedispanid : hover {color: black;
+cursor: pointer;
+}
+
+
+.bme{
+	margin-left: auto;
+	margin-right: auto;
+	width: 280px;
+	float: left;
+	border-radius: 50%;
+	margin-right: 20px;
+	
+
+}
+article p{
+	margin-left:15px;
+}
+.festes{
+    margin-right: : auto;
+	width: 200px;
+	float: left;
+	margin-left: : 10px;
+	border-radius: 10px;
+	}
+.rajz{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 100px;
+	width: 200px;
+	float: left;
+	border-radius: 10px;
+}
+.rajzora{
+	margin-left: auto;
+	margin-right: 10px;
+	width: 200px;
+	float: left;
+	border-radius: 10px;
+}
+
+
+
+
+    
+
