@@ -1,5 +1,4 @@
-h4{
-	margin-left: 200px;}
+
 
 .tablazat{
 grid-template-columns:repeat(auto-fit,minmax(100px,1fr))
